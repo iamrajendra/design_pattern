@@ -2,35 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecf9c02a-e3e2-4207-a883-3830e2e46457" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/BuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/BirdAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/PlasticToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/ToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Assemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/BridgePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Produce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Workshop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/AbstractDesign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/AbstractDesign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/CarFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/CarFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/CarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/CarFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/CarType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/CarType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/DefaultCarFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/DefaultCarFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/DefaultCarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/DefaultCarFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/INDIACarFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/INDIACarFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/INDIACarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/INDIACarFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/Location.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/LuxuryCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/LuxuryCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/MicroCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/MicroCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/MiniCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/MiniCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/USACarFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/USACarFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/USACarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/abstract_factory_method/USACarFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/FactoryDesign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/FactoryDesign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/FourWheeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/FourWheeler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/TwoWheeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/TwoWheeler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/factory_method/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/BlackColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/BlackColor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/BlueColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/BlueColor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/ColorStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/ColorStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/Prototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/prototype/Prototype.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/creational/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/creational/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,14 +37,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="java" value="16" />
           <entry key="md" value="1" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="82" />
         </counts>
       </usages-collector>
     </session>
@@ -64,81 +64,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational/abstract_factory_method/AbstractDesign.java">
+        <entry file="file://$PROJECT_DIR$/src/structural/bridge/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="61" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="61" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/src/structural/bridge/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational/prototype/Color.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational/prototype/BlueColor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational/factory_method/TwoWheeler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational/factory_method/FourWheeler.java">
+        <entry file="file://$PROJECT_DIR$/src/structural/bridge/Bike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational/factory_method/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/structural/bridge/Workshop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/structural/bridge/Produce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational/factory_method/FactoryDesign.java">
+        <entry file="file://$PROJECT_DIR$/src/structural/bridge/Assemble.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
@@ -146,18 +129,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/structural/bridge/BridgePattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="34">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -166,6 +144,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -198,10 +177,25 @@
         <option value="$PROJECT_DIR$/src/creational/prototype/BlackColor.java" />
         <option value="$PROJECT_DIR$/src/creational/prototype/ColorStore.java" />
         <option value="$PROJECT_DIR$/src/creational/prototype/Prototype.java" />
+        <option value="$PROJECT_DIR$/src/creational/builder/Student.java" />
+        <option value="$PROJECT_DIR$/src/creational/builder/BuilderDemo.java" />
+        <option value="$PROJECT_DIR$/src/creational/singleton/GFG.java" />
+        <option value="$PROJECT_DIR$/src/structural/adapter/Bird.java" />
+        <option value="$PROJECT_DIR$/src/structural/adapter/ToyDuck.java" />
+        <option value="$PROJECT_DIR$/src/structural/adapter/PlasticToyDuck.java" />
+        <option value="$PROJECT_DIR$/src/structural/adapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/structural/adapter/Sparrow.java" />
+        <option value="$PROJECT_DIR$/src/structural/adapter/BirdAdapter.java" />
+        <option value="$PROJECT_DIR$/src/structural/bridge/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/structural/bridge/Car.java" />
+        <option value="$PROJECT_DIR$/src/structural/bridge/Bike.java" />
+        <option value="$PROJECT_DIR$/src/structural/bridge/Workshop.java" />
+        <option value="$PROJECT_DIR$/src/structural/bridge/Produce.java" />
+        <option value="$PROJECT_DIR$/src/structural/bridge/Assemble.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -244,6 +238,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="creational" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -254,6 +261,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -268,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BridgePattern">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -285,13 +293,26 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Prototype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.prototype.Prototype" />
+    <configuration name="Adapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.adapter.Adapter" />
       <module name="design_pattern" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="creational.abstract_factory_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BridgePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.bridge.BridgePattern" />
+      <module name="design_pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,9 +334,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Adapter" />
+      <item itemvalue="Application.BridgePattern" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Prototype" />
+        <item itemvalue="Application.BridgePattern" />
+        <item itemvalue="Application.Adapter" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +359,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -366,6 +392,37 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info active="true" id="Project" order="2" visible="true" weight="0.2521322" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32814237" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32814237" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -411,6 +468,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -446,6 +507,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="34" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -530,17 +595,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/creational/prototype/BlueColor.java">
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/creational/prototype/Color.java">
+    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="247">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creational/factory_method/FactoryDesign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -565,20 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/creational/abstract_factory_method/AbstractDesign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="61" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/creational/factory_method/TwoWheeler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -590,22 +648,173 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/creational/factory_method/FactoryDesign.java">
+    <entry file="file://$PROJECT_DIR$/src/creational/prototype/BlueColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creational/prototype/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creational/abstract_factory_method/AbstractDesign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creational/builder/BuilderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creational/singleton/GFG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creational/builder/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="52" column="35" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="35" />
+          <folding>
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1195#1196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/adapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/adapter/BirdAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/adapter/PlasticToyDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/adapter/ToyDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/adapter/Sparrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/adapter/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/bridge/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/bridge/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/bridge/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/bridge/Workshop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/bridge/Produce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structural/bridge/Assemble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
+    <entry file="file://$PROJECT_DIR$/src/structural/bridge/BridgePattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
